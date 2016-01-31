@@ -1,7 +1,7 @@
 name: World Of Dan
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3978098640218377
+layout_spectrum: 0.4991
+typography_spectrum: 0.41215
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0
-  lightness: 0.2867797054350376
+  lightness: 0
   saturation: 0.48644770379178226
   rhythmicContrast: 0.7055628255475312
 purpose: []
