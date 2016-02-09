@@ -1,29 +1,41 @@
-name: World Of Dan
-favicon: null
-layout_spectrum: 0.74233
-typography_spectrum: 0.7505
 title: Welcome to the world of Dan....
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 0.529511
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5
-  lightness: 0.125
-  saturation: 0.75
-  rhythmicContrast: 0.7055628255475312
-purpose: []
+  rhythmicContrast: 0.4249578
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: World Of Dan
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7505
+layout_spectrum: 0.5514334
